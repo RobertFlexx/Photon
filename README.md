@@ -1,5 +1,13 @@
 # Photon Package Manager
 
+
+
+# DISCLAIMER!
+
+# This project has been discontinued, and is now publicly archived, as it is now deprecated. Development continues in its successor (Quarks)[https://github.com/Kokonico/Quarks]
+
+
+
 A production ready, Portage inspired source based package manager written in Ruby, designed for a Linux distribution(s).
 
 > By yours truly, hehe
