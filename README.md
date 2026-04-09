@@ -4,7 +4,7 @@
 
 # DISCLAIMER!
 
-# This project has been discontinued, and is now publicly archived, as it is now deprecated. Development continues in its successor (Quarks)[https://github.com/Kokonico/Quarks]
+# This project has been discontinued, and is now publicly archived, as it is now deprecated. Development continues in its successor [Quarks](https://github.com/Kokonico/Quarks)
 
 
 
